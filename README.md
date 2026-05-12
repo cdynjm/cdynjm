@@ -23,14 +23,14 @@
   <img src="https://images.icon-icons.com/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" width="45" height="45"/>
   <img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" width="45" height="45"/>
   <img src="https://images.cdn-files-a.com/uploads/4430217/800_627958487663f.png" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1280px-Typescript_logo_2020.svg.png" width="45" height="45"/>
+  <img src="https://cdn-icons-png.flaticon.com/256/919/919832.png" width="45" height="45"/>
   <img src="https://cdn-icons-png.flaticon.com/256/919/919830.png" width="45" height="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1280px-Laravel.svg.png" width="45" height="45"/>
   <img src="https://cdn.creazilla.com/icons/3254431/tailwindcss-icon-icon-sm.png" width="45" height="45"/>
   <img src="https://www.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png" width="45" height="45"/>
   <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" width="45" height="45"/>
   <img src="https://plugins.jetbrains.com/files/17435/284724/icon/default.png" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1280px-Vue.js_Logo_2.svg.png" width="45" height="45"/>
+  <img src="https://images.icon-icons.com/2699/PNG/512/vuejs_logo_icon_168246.png" width="45" height="45"/>
 </p>
 
 <p align="center">
