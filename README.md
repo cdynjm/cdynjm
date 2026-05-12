@@ -28,8 +28,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1280px-Laravel.svg.png" width="45" height="45"/>
   <img src="https://cdn.creazilla.com/icons/3254431/tailwindcss-icon-icon-sm.png" width="45" height="45"/>
   <img src="https://www.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png" width="45" height="45"/>
-  <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" width="45" height="45"/>
-  <img src="https://plugins.jetbrains.com/files/17435/284724/icon/default.png" width="45" height="45"/>
+  <img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/innocenzi/awesome-inertiajs/main/assets/logo.svg" width="45" height="45"/>
   <img src="https://images.icon-icons.com/2699/PNG/512/vuejs_logo_icon_168246.png" width="45" height="45"/>
 </p>
 
