@@ -19,22 +19,18 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="laravel" width="45" height="45"/>
-  <img src="https://images.icon-icons.com/112/PNG/512/python_18894.png" alt="python" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/honojs/honojs.png" alt="hono" width="45" height="45"/>
+  <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" width="45" height="45"/>
+  <img src="https://images.icon-icons.com/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" width="45" height="45"/>
+  <img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" width="45" height="45"/>
+  <img src="https://images.cdn-files-a.com/uploads/4430217/800_627958487663f.png" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1280px-Typescript_logo_2020.svg.png" width="45" height="45"/>
+  <img src="https://cdn-icons-png.flaticon.com/256/919/919830.png" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1280px-Laravel.svg.png" width="45" height="45"/>
+  <img src="https://cdn.creazilla.com/icons/3254431/tailwindcss-icon-icon-sm.png" width="45" height="45"/>
+  <img src="https://www.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png" width="45" height="45"/>
+  <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" width="45" height="45"/>
+  <img src="https://plugins.jetbrains.com/files/17435/284724/icon/default.png" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1280px-Vue.js_Logo_2.svg.png" width="45" height="45"/>
 </p>
 
 <p align="center">
